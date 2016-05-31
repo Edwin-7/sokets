@@ -1,4 +1,4 @@
-# sokets
+# sockets
 Para iniciar
 
 ## npm start
